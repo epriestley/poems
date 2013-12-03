@@ -1,3 +1,5 @@
+HOOK
+
 O commit hook!
 may thy righteous fire
 keep trunk ever unbroken
