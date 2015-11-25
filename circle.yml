@@ -4,4 +4,4 @@ test:
 
 notify:
   webhooks:
-    - url: http://8d48bf77.ngrok.io/harbormaster/hook/circleci/
+    - url: http://e753b2cb.ngrok.io/harbormaster/hook/circleci/
