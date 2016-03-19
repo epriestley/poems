@@ -1,6 +1,6 @@
 test:
   override:
-    - git show
+    - ls -alh
 
 notify:
   webhooks:
