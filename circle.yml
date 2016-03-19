@@ -1,7 +1,7 @@
 test:
   override:
-    - git show
+    - echo $HARBORMASTER_BUILD_TARGET_PHID ; ls -alh
 
 notify:
   webhooks:
-    - url: http://8d48bf77.ngrok.io/harbormaster/hook/circleci/
+    - url: http://1d7d0223.ngrok.io/harbormaster/hook/circleci/
