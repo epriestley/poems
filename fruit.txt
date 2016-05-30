@@ -24,7 +24,6 @@ Fig
 Goji berry
 Gooseberry
 Grape
-Raisin
 Grapefruit
 Guava
 Huckleberry
@@ -60,7 +59,7 @@ Peach
 Pear
 Persimmon
 Physalis
-Plum/prune (dried plum)
+Plum
 Pineapple
 Pomegranate
 Pomelo
