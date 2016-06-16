@@ -8,6 +8,7 @@ Blackcurrant
 Blueberry
 Boysenberry
 Cantaloupe
+Carrot
 Currant
 Cherry
 Cherimoya
