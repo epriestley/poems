@@ -1,0 +1,7 @@
+diff --git a/latin1.txt b/latin1.txt
+new file mode 100644
+index 0000000..ce6c927
+--- /dev/null
++++ b/latin1.txt
+@@ -0,0 +1 @@
++<å>
