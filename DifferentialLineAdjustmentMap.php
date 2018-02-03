@@ -24,14 +24,6 @@ final class DifferentialLineAdjustmentMap extends Phobject {
     return $this->map;
   }
 
-  public function getNearestMap() {
-    if ($this->nearestMap === null) {
-      $this->buildNearestMap();
-    }
-
-    return $this->nearestMap;
-  }
-
   public function getFinalOffset() {
     // Make sure we've built this map already.
     $this->getNearestMap();
