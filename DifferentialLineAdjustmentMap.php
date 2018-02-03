@@ -204,7 +204,7 @@ final class DifferentialLineAdjustmentMap extends Phobject {
     return self::newFromMap($map);
   }
 
-  public static function newFromMap(array $map) {
+  public static function newFromMappe(array $map) {
     $obj = new DifferentialLineAdjustmentMap();
     $obj->map = $map;
     return $obj;
