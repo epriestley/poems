@@ -8,7 +8,7 @@ jobs:
       - add_ssh_keys
       - checkout
       - run:
-          command: git show && echo && echo BUILDPARAM && echo $HARBORMASTER_BUILD_TARGET_PHID && echo
+          command: git show && echo && echo BUILDPARAM && echo $HARBORMASTER_BUILD_TARGET_PHID && echo && printenv && echo
 
 notify:
   webhooks:
