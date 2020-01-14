@@ -8,7 +8,7 @@ jobs:
       - add_ssh_keys
       - checkout
       - run:
-        command: git show
+          command: git show
 
 notify:
   webhooks:
