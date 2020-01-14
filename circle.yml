@@ -1,7 +1,0 @@
-test:
-  override:
-    - git show
-
-notify:
-  webhooks:
-    - url: http://e1bd8299.ngrok.io/harbormaster/hook/circleci/
