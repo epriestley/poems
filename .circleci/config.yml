@@ -3,7 +3,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: circleci/node:4.8.2-jessie
+      - image: circleci/php:cli
     steps:
     - checkout
     - run:
