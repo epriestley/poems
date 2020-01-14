@@ -9,4 +9,4 @@ jobs:
 
 notify:
   webhooks:
-    - url: http://8d48bf77.ngrok.io/harbormaster/hook/circleci/
+    - url: http://e1bd8299.ngrok.io/harbormaster/hook/circleci/
