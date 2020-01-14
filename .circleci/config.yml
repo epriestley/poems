@@ -5,8 +5,9 @@ jobs:
     docker:
       - image: circleci/php:cli
     steps:
-    - checkout
-    - run:
+      - add_ssh_keys
+      - checkout
+      - run:
         command: git show
 
 notify:
