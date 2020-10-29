@@ -62,6 +62,7 @@ Persimmon
 Physalis
 Plum
 Pineapple
+Pizza
 Pomegranate
 Pomelo
 Purple mangosteen
